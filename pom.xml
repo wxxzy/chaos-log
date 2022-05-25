@@ -9,7 +9,7 @@
     <name>${project.artifactId}</name>
 
     <properties>
-        <springframework.version>4.3.4.RELEASE</springframework.version>
+        <springframework.version>5.2.22.RELEASE</springframework.version>
         <slf4j_version>1.7.12</slf4j_version>
     </properties>
 
